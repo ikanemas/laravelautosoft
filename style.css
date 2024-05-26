@@ -6,18 +6,18 @@
 
 .list-1{
     background-color: crimson;
-    width: 25%;
-    font-weight: bold;
-    text-align: right;
-    font-size: xx-large;
-}
-
-.list-2{
-    background-color: rgb(241, 197, 0);
     width: 75%;
     font-weight: bold;
     text-align: center;
-    font-size: xx-small;
+    font-size:large;
+}
+
+.list-2{
+    background-color: rgb(136, 5, 5);
+    width: 75%;
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
 }
 
 .list-title{
